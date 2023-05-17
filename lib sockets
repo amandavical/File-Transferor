@@ -1,0 +1,6 @@
+Sockets (soquetes) são utilizados para o envio de msgs através de uma rede.
+São umas das formas mais comuns de IPC - Inter-Process Comunication.
+-> Nó vitual onde a entidades realizam a comunicação inter-processos.
+As aplicações mais comuns para sockets são aplicacões cliente-servidor,
+nas quais um servidor espera por conexões de clientes.
+* Endereço do socket: Combinação de IP com número de Porta
